@@ -1,2 +1,2 @@
 # jhuelz
-Test
+CODE or DIE
